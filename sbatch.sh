@@ -6,7 +6,7 @@
 #SBATCH --time=01:00:00
 #SBATCH -N 1 
 #SBATCH -n 1 
-#SBATCH --mem=1000
+#SBATCH --mem=10000
 #SBATCH -p batch
  
 pip3 install -U scikit-learn
