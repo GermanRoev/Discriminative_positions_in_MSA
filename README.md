@@ -1,4 +1,5 @@
 # Discriminative_positions_in_MSA
-hbv_sgene_mafft.fa - MSA dataset 
-search.py - script
+hbv_sgene_mafft.fa - MSA dataset <br />
+search.py - script<br />
+
 Script and dataset should be in the same directory
