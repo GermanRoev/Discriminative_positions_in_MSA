@@ -3,4 +3,6 @@ hbv_sgene_mafft.fa - MSA dataset <br />
 search.py - Python script<br />
 sbatch.sh - SLURM script<br />
  
-Python script and dataset should be in the same directory
+Python script and dataset should be in the same directory<br />
+
+Approximate running time - 1 minute
